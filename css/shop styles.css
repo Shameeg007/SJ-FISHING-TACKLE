@@ -1,0 +1,145 @@
+#title{
+    background-color:#fff;
+}
+.container-fluid{
+    padding: 2%;
+}
+.navbar-brand{
+    font-family: "Yellowtail";
+}
+h1{
+    font-family: Montserrat-Black 900;
+    font-weight: 900;
+    font-size: 3rem;
+    line-height: 1.5;
+    padding-left: 80px;
+    color: black;
+    text-align: center;
+}
+
+.SJ{
+    color: #B9E9FC;
+    font-family: Yellowtail;
+
+}
+h2{
+    font-family: montserrat-bold;
+    font-weight: 900;
+    font-size: 3rem;
+    line-height: 1.5;
+  
+}
+
+h3{
+    font-family: montserrat-black 900;
+    font-weight: 900;
+
+}
+p{
+    color: #8f8f8f;
+}
+
+.pic{
+    height: 350px;
+    padding-left: 150px;
+}
+
+.nav-link{
+    font-size: 1.2rem;
+}
+#features{
+    padding: 7% 15%;
+}
+.feature{
+    padding: 5%;
+    text-align: center;
+}
+.bi{
+    color: #c51d1d;
+}
+.bi:hover{
+    color: #f60909;
+
+}
+
+
+#press{
+    text-align: center;
+    background-color: #B9E9FC;
+}
+.carousel-item{
+    padding: 5% 10%;
+    text-align: center;
+}
+.companies{
+    width: 15%;
+    padding:20px 20px 50px;
+}
+#pricing{
+    padding: 0px 50px 0px;
+    text-align: center;
+}
+.price{
+    padding: 5% 3%;
+}
+#cta{
+    text-align: center;
+    background-color: #B9E9FC;
+    color: white;
+    padding: 7% 15%;
+
+}
+.cta-header{
+    font-size: 3rem;
+}
+#footer{
+    padding: 7% 15%;
+    text-align: center;
+    background-color: #B9E9FC;
+}
+.s{
+    padding: 1% ;
+}
+.s:hover{
+    color: rgb(28, 28, 135);
+}
+#fishing-line{
+    
+    text-align: center;
+    background-color: #B9E9FC;
+    color: white;
+
+}
+#hooks{
+    
+    text-align: center;
+    background-color: #fff;
+    color: #B9E9FC;
+
+}
+#sinkers{
+    
+    text-align: center;
+    background-color: #B9E9FC;
+    color: white;
+
+}
+#baits{
+    
+    text-align: center;
+    background-color: #B9E9FC;
+    color: #fff;
+
+}
+.coming-soon{
+    color: red;
+
+}
+#extras{
+    
+    text-align: center;
+    background-color: #fff;
+    color: #B9E9FC;
+
+}
+    

@@ -1,0 +1,107 @@
+#title{
+    background-color: #B9E9FC;
+}
+.container-fluid{
+    padding: 2%;
+}
+.navbar-brand{
+    font-family: "Yellowtail";
+}
+h1{
+    font-family: Montserrat-Black 900;
+    font-weight: 900;
+    font-size: 3rem;
+    line-height: 1.5;
+    padding-left: 80px;
+    color: white;
+}
+h2{
+    font-family: montserrat-bold;
+    font-weight: 900;
+    font-size: 3rem;
+    line-height: 1.5;
+  
+}
+
+h3{
+    font-family: montserrat-black 900;
+    font-weight: 900;
+
+}
+p{
+    color: #8f8f8f;
+}
+
+.pic{
+    height: 350px;
+    padding-left: 150px;
+}
+
+.nav-link{
+    font-size: 1.2rem;
+}
+#features{
+    padding: 7% 15%;
+}
+.feature{
+    padding: 5%;
+    text-align: center;
+}
+.bi{
+    color: #c51d1d;
+}
+.bi:hover{
+    color: #f60909;
+
+}
+#testimonials{
+    
+    text-align: center;
+    background-color: #B9E9FC;
+    color: white;
+
+}
+.dog{
+    border-radius: 100%;
+    width: 10%;
+}
+#press{
+    text-align: center;
+    background-color: #B9E9FC;
+}
+.carousel-item{
+    padding: 7% 15%;
+    text-align: center;
+}
+.companies{
+    width: 15%;
+    padding:20px 20px 50px;
+}
+#pricing{
+    padding: 100px;
+    text-align: center;
+}
+.price{
+    padding: 5% 3%;
+}
+#cta{
+    text-align: center;
+    background-color: #B9E9FC;
+    color: white;
+    padding: 7% 15%;
+
+}
+.cta-header{
+    font-size: 3rem;
+}
+#footer{
+    padding: 7% 15%;
+    text-align: center;
+}
+.s{
+    padding: 1% ;
+}
+.s:hover{
+    color: rgb(28, 28, 135);
+}
+    
